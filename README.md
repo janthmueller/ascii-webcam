@@ -17,9 +17,9 @@
   <h3 align="center">ascii-webcam</h3>
 
   <p align="center">
-    A simple interactive marching square simulator with pygame.
+    Transform webcam frames to ascii art.
     <br />
-    <a href="https://github.com/janthmueller/marching-square-simulator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/janthmueller/ascii-webcam"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/janthmueller/ascii-webcam">View Demo</a>
