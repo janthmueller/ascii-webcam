@@ -1,5 +1,3 @@
-# https://www.youtube.com/watch?v=dTDgbx-XelY&ab_channel=SamiHatna
-
 import sys
 from copy import deepcopy
 
