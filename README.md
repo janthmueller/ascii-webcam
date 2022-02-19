@@ -107,6 +107,7 @@ The letters used are displayed in terms of their order over the luminance on the
 ## Roadmap
 
 - [ ] Refactor Code
+- [ ] Fix shields in readme
 
 
 See the [open issues](https://github.com/janthmueller/ascii-webcam/issues) for a full list of proposed features (and known issues).
