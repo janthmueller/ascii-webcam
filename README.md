@@ -171,9 +171,9 @@ Project Link: [https://github.com/janthmueller/ascii-webcam](https://github.com/
 [contributors-shield]: https://img.shields.io/github/contributors/janthmueller/ascii-webcam.svg?style=for-the-badge
 [contributors-url]: https://github.com/janthmueller/ascii-webcam/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/janthmueller/ascii-webcam.svg?style=for-the-badge
-[forks-url]: https://github.com/janthmueller/marching-square-simulator/network/members
+[forks-url]: https://github.com/janthmueller/ascii-webcam/network/members
 [stars-shield]: https://img.shields.io/github/stars/janthmueller/ascii-webcam.svg?style=for-the-badge
-[stars-url]: https://github.com/janthmueller/marching-square-simulator/stargazers/
+[stars-url]: https://github.com/janthmueller/ascii-webcam/stargazers/
 [issues-shield]: https://img.shields.io/github/issues/janthmueller/ascii-webcam.svg?style=for-the-badge
 [issues-url]: https://github.com/janthmueller/ascii-webcam/issues
 [license-shield]: https://img.shields.io/github/license/janthmueller/ascii-webcam.svg?style=for-the-badge
